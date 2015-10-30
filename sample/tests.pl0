@@ -27,14 +27,6 @@ procedure divide;
            end
 end;
 
-/*sasasas s
-
-
-
-
-
-dsdc */
-
 procedure gcd;
     var f,g;
     begin
